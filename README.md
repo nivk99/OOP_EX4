@@ -37,7 +37,6 @@ After the server is running a client can connect to it (play with it)
 In this assignment, we are mainly interested in maximizing the overall score - which is denoted as “grade” - the sum of all the pokemon weight as caught by all the “Agents”.
 
 
-![](https://images1.calcalist.co.il/PicServer3/2016/07/11/620912/1-lm.jpg)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0007.gif)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0089.gif)
 
@@ -64,6 +63,4 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 © Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
 
 
-![](https://c.tenor.com/HdBu4l3O47IAAAAM/pokemon-anime.gif)
-![](https://c.tenor.com/BVzbYfQd6IEAAAAM/jpchristmas-pokemon.gif)
-![](https://c.tenor.com/JufMsoOI750AAAAM/pikachu-pokemon.gif)
+![](https://images1.calcalist.co.il/PicServer3/2016/07/11/620912/1-lm.jpg)
