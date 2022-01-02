@@ -37,6 +37,7 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 
 ![](https://images1.calcalist.co.il/PicServer3/2016/07/11/620912/1-lm.jpg)
+![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0016.gif)
 
 
 
