@@ -24,5 +24,13 @@ Graphs are directly applicable to real-world scenarios. For example, we could us
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png)
 
+## The Pokemon game
+ “Pokemon game” in which given a weighted graph,  a set of “Agents” should be located on it so they could “catch” as many “Pokemons” as possible. The pokemons are located on the graph’s (directed) edges, therefore, the agent needs to take (aka walk)  the proper edge to “grab” the pokemon .
+Your goal is to maximize the overall sum of weights of the “grabbed” pokemons (while not exceeding the maximum amount of server calls allowed in a second - 10 max)
+The game is being played on a “server” 
+The server is a simple .jar file that can be run on any java machine (JDK 11 or above) in a command line, e.g.,  <java -jar Ex4_Server_v0.0.jar 0>  (where the “0” parameter is a case between [0-15]).
+After the server is running a client can connect to it (play with it) 
+In this assignment, we are mainly interested in maximizing the overall score - which is denoted as “grade” - the sum of all the pokemon weight as caught by all the “Agents”.
+
 
 ![](https://images1.calcalist.co.il/PicServer3/2016/07/11/620912/1-lm.jpg)
