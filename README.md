@@ -58,3 +58,7 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 © Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
 
 ![](https://i5.walmartimages.com/asr/c2a14558-195b-4d63-a269-48349fb19028_2.61f1a056c089a2737c1499e1d56b4084.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+
+![](https://c.tenor.com/HdBu4l3O47IAAAAM/pokemon-anime.gif)
+![](https://c.tenor.com/BVzbYfQd6IEAAAAM/jpchristmas-pokemon.gif)
+![](https://c.tenor.com/JufMsoOI750AAAAM/pikachu-pokemon.gif)
