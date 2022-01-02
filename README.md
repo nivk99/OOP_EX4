@@ -57,4 +57,4 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 
 © Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
 
-![](https://www.pokemoncenter.com/site/binaries/content/gallery/bloomreach/responsive-banners/2021/12-december-2021/202112_banner_sittingcuties_desktop_v1.gif)
+![](https://i5.walmartimages.com/asr/c2a14558-195b-4d63-a269-48349fb19028_2.61f1a056c089a2737c1499e1d56b4084.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
