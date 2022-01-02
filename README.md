@@ -44,8 +44,8 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 the OOP_Ex4 wiki! For more explanation for each Class click here
 
-
-# ❓how to run❓
+## 💡Reported results💡
+## ❓how to run❓
 
 ## 🔗Links🔗:
 
@@ -56,3 +56,5 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 © Kotek Niv 📧 <niv.kotek@msmail.ariel.ac.il >
 
 © Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
+
+![](https://www.pokemoncenter.com/site/binaries/content/gallery/bloomreach/responsive-banners/2021/12-december-2021/202112_banner_sittingcuties_desktop_v1.gif)
