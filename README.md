@@ -39,6 +39,7 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0007.gif)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0089.gif)
+![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0032.gif)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0010.gif)
 
 
