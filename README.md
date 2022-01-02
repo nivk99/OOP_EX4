@@ -44,6 +44,9 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 the OOP_Ex4 wiki! For more explanation for each Class click here
 
+
+# ❓how to run❓
+
 ## 🔗Links🔗:
 
 ## ✨Diagram class✨
