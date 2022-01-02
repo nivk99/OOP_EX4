@@ -26,7 +26,7 @@ Graphs are directly applicable to real-world scenarios. For example, we could us
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png)
-
+![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0076.gif)
 ## 💡The Pokemon game💡
  “Pokemon game” in which given a weighted graph,  a set of “Agents” should be located on it so they could “catch” as many “Pokemons” as possible. The pokemons are located on the graph’s (directed) edges, therefore, the agent needs to take (aka walk)  the proper edge to “grab” the pokemon .
 Your goal is to maximize the overall sum of weights of the “grabbed” pokemons (while not exceeding the maximum amount of server calls allowed in a second - 10 max)
@@ -64,4 +64,3 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 ![](https://c.tenor.com/HdBu4l3O47IAAAAM/pokemon-anime.gif)
 ![](https://c.tenor.com/BVzbYfQd6IEAAAAM/jpchristmas-pokemon.gif)
 ![](https://c.tenor.com/JufMsoOI750AAAAM/pikachu-pokemon.gif)
-![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0076.gif)
