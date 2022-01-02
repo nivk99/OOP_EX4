@@ -25,7 +25,6 @@ Graphs are directly applicable to real-world scenarios. For example, we could us
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0076.gif)
-![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0016.gif)
 ## 💡The Pokemon game💡
  “Pokemon game” in which given a weighted graph,  a set of “Agents” should be located on it so they could “catch” as many “Pokemons” as possible. The pokemons are located on the graph’s (directed) edges, therefore, the agent needs to take (aka walk)  the proper edge to “grab” the pokemon .
 Your goal is to maximize the overall sum of weights of the “grabbed” pokemons (while not exceeding the maximum amount of server calls allowed in a second - 10 max)
@@ -37,7 +36,7 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0007.gif)
 ![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0089.gif)
-![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0010.gif)
+![](https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0016.gif)
 
 
 
