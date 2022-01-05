@@ -70,8 +70,13 @@ the OOP_Ex4 wiki! For more explanation for each Class click here
 
 ## 🔗Links🔗:
 [https://www.youtube.com/watch?v=qR49hsdfzHA](https://www.youtube.com/watch?v=qR49hsdfzHA)
+
 [What is Pokémon?](https://www.youtube.com/watch?v=eIJLjYf6B7M)
+
 [The History of Pokemon | A Brief History](https://www.youtube.com/watch?v=Offw-N3PkoA)
+
+[Graph Data Structure 4. Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw)
+
 
 ## ✨Diagram class✨
 
