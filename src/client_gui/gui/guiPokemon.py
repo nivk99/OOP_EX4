@@ -152,7 +152,7 @@ class GuiPokemon:
                 if int(p.get_type()) == 1:
                     pygame.draw.circle(screen, Color(0, 0, 255), (int(x11), int(y11)), 10)
                     # draw the value pokemon
-                    id_srf = FONT.render(str(p.get_value()), True, Color(255, 255, 255))
+                    id_srf = FONT.render(str(int(p.get_value())), True, Color(255, 255, 255))
                     rect = id_srf.get_rect(center=(x11, y11))
                     screen.blit(id_srf, rect)
                 #  draw the pokemon: if: dest < src => type < 0
