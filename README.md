@@ -56,7 +56,7 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 ## Explanation of the project
 
-the OOP_Ex4 wiki! For more explanation for each Class click here
+the OOP_Ex4 wiki! [For more explanation for each Class click here](https://github.com/nivk99/OOP_Ex4/wiki)
 
 ## 💡Reported results💡
 
