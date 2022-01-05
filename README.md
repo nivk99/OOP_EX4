@@ -41,16 +41,37 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 
 
 ## 💡My algorithm💡:
-
+    Algorithm: Given a list of Pokemon and agents the algorithm finds for each Pokemon the best agent for it by a number of actions:
+    1. Check the location of the Pokemon
+    2. Check the location and agent according to the Pokemon.
+    3. Check if the agent is close to the Pokemon - if so then the agent will take the Pokemon.
+    4. Checks if one of the agents is available and does nothing.
+    5. Check the shortest distance between agents and Pokemon - The shortest distance between agent and Pokemon will be best.
+    6. Once an algorithm finds the best agent for Pokemon it adds it to the list of Pokemon that is in each agent.
+    7. Finally it is sent to the tsp method which finds the agent the best way to switch between all the Pokemon.
+    In addition:
+    A. Initially a function that sorts the list of Pokemon by the highest value to the lowest
+    B. A function that initially calculates where to place the agent according to the center of all the Pokémon.
+    c. A function that balances the state of the moves
 
 ## Explanation of the project
 
 the OOP_Ex4 wiki! For more explanation for each Class click here
 
 ## 💡Reported results💡
+
+
+
 ## ❓how to run❓
 
+
+
+
+
 ## 🔗Links🔗:
+[https://www.youtube.com/watch?v=qR49hsdfzHA](https://www.youtube.com/watch?v=qR49hsdfzHA)
+[What is Pokémon?](https://www.youtube.com/watch?v=eIJLjYf6B7M)
+[The History of Pokemon | A Brief History](https://www.youtube.com/watch?v=Offw-N3PkoA)
 
 ## ✨Diagram class✨
 
