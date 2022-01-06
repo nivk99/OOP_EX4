@@ -59,6 +59,7 @@ In this assignment, we are mainly interested in maximizing the overall score - w
 the OOP_Ex4 wiki! [For more explanation for each Class click here](https://github.com/nivk99/OOP_Ex4/wiki)
 
 ## 💡Reported results💡
+![](https://github.com/nivk99/OOP_Ex4/blob/main/images/results1.jpg)
 
 
 
