@@ -92,7 +92,7 @@ Example for running the python program: python Ex4.py
 
 
 ## ✨Diagram class✨
-![https://github.com/nivk99/OOP_Ex4/blob/main/images/algo_pokemon.png]
+![](https://github.com/nivk99/OOP_Ex4/blob/main/images/algo_pokemon.png)
 
 ## ©️license & copyright©️:
 
