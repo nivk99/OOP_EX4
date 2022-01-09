@@ -64,7 +64,10 @@ the OOP_Ex4 wiki! [For more explanation for each Class click here](https://githu
 
 
 ## ❓how to run❓
-1. [Run the server](https://github.com/nivk99/OOP_Ex4/blob/main/Ex4_Server_v0.0.jar):
+
+1. Download the entire program.
+
+2. [Run the server](https://github.com/nivk99/OOP_Ex4/blob/main/Ex4_Server_v0.0.jar):
  The server is a simple .jar file that can be run on any java machine (JDK 11 or above) in a command line, 
  
  e.g.,  <java -jar Ex4_Server_v0.0.jar 0> 
@@ -72,10 +75,12 @@ the OOP_Ex4 wiki! [For more explanation for each Class click here](https://githu
  (where the “0” parameter is a case between [0-15]).
 
 
-2. [Activate the customer](https://github.com/nivk99/OOP_Ex4/blob/main/src/Ex4.py):
+3. [Activate the customer](https://github.com/nivk99/OOP_Ex4/blob/main/src/Ex4.py):
  Open the command prompt and run the Ex4 file.
 
 Example for running the python program: python Ex4.py
+
+***If you are unable to start the client through the command line, start it by the workspace from the EX4 file
 
 
 ![](https://github.com/nivk99/OOP_Ex4/blob/main/images/AA.png)
