@@ -100,11 +100,6 @@ Example for running the python program: python Ex4.py
 ## ✨Diagram class✨
 ![](https://github.com/nivk99/OOP_Ex4/blob/main/images/algo_pokemon.png)
 
-## ©️license & copyright©️:
-
-© Kotek Niv 📧 <niv.kotek@msmail.ariel.ac.il >
-
-© Shevach Aviv 📧 <aviv.shevach@msmail.ariel.ac.il >
 
 
 ![](https://images1.calcalist.co.il/PicServer3/2016/07/11/620912/1-lm.jpg)
